@@ -7,6 +7,7 @@
   <project path="device/motorola/guam" name="android_device_motorola_guam" remote="main"/>
   <project path="device/motorola/cebu" name="android_device_motorola_cebu" remote="main"/>
   <project path="device/motorola/borneo" name="android_device_motorola_borneo" remote="main"/>
+  <project path="device/motorola/capri" name="android_device_motorola_capri" remote="main"/>
   <project path="device/motorola/caprip" name="android_device_motorola_caprip" remote="main"/>
 
   <!-- Vendor Tree -->
@@ -15,6 +16,7 @@
   <project path="vendor/motorola/guam" name="proprietary_vendor_motorola_guam" remote="deivid-21s-sources" revision="lineage-21"/>
   <project path="vendor/motorola/cebu" name="proprietary_vendor_motorola_cebu" remote="deivid-21s-sources" revision="lineage-21"/>
   <project path="vendor/motorola/borneo" name="proprietary_vendor_motorola_borneo" remote="deivid-21s-sources" revision="lineage-21"/>
+  <project path="vendor/motorola/capri" name="proprietary_vendor_motorola_capri" remote="deivid-21s-sources" revision="lineage-21"/>
   <project path="vendor/motorola/caprip" name="proprietary_vendor_motorola_caprip" remote="deivid-21s-sources" revision="lineage-21"/>
 
   <!-- Kernel Tree -->
