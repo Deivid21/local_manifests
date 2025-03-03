@@ -7,10 +7,10 @@
   <project path="vendor/motorola/MotCamera3" name="proprietary_vendor_motorola_MotCamera3" remote="gitlab"/>
   <project path="vendor/motorola/MotCameraAI" name="proprietary_vendor_motorola_MotCameraAI" remote="gitlab"/>
   <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="gitlab"/>
-  <project path="vendor/motorola/MotoLiveWallpaper3" name="proprietary_vendor_motorola_MotoLiveWallpaper3" remote="deivid-21s-sources" revision="android-14"/>
-  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="deivid-21s-sources" revision="android-14"/>
-  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="deivid-21s-sources" revision="android-14"/>
-  <project path="vendor/motorola/TimeWeather" name="proprietary_vendor_motorola_TimeWeather" remote="deivid-21s-sources" revision="android-14"/>
+  <project path="vendor/motorola/MotoLiveWallpaper3" name="proprietary_vendor_motorola_MotoLiveWallpaper3" remote="gitlab"/>
+  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="gitlab"/>
+  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="gitlab"/>
+  <project path="vendor/motorola/TimeWeather" name="proprietary_vendor_motorola_TimeWeather" remote="gitlab"/>
 
   <!-- LineageOS -->
   <project path="external/bson" name="android_external_bson" remote="lineageos"/>
