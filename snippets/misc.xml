@@ -2,6 +2,7 @@
 <manifest>
 
   <!-- Motorola -->
+  <project path="vendor/motorola/AudioRecorder" name="proprietary_vendor_motorola_AudioRecorder" remote="gitlab"/>
   <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="gitlab"/>
   <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="gitlab"/>
   <project path="vendor/motorola/MotCamera3" name="proprietary_vendor_motorola_MotCamera3" remote="gitlab"/>
