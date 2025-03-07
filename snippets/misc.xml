@@ -15,6 +15,9 @@
   <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="gitlab"/>
   <project path="vendor/motorola/TimeWeather" name="proprietary_vendor_motorola_TimeWeather" remote="gitlab"/>
 
+  <!-- MindTheGapps -->
+  <project path="vendor/gapps" name="vendor_gapps" remote="mindthegapps"/>
+
   <!-- LineageOS -->
   <project path="external/bson" name="android_external_bson" remote="lineageos"/>
   <project path="hardware/motorola" name="android_hardware_motorola" remote="lineageos"/>

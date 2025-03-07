@@ -16,6 +16,10 @@
            fetch="https://gitlab.com/Deivid21/"
            revision="android-14" />
 
+  <remote  name="mindthegapps"
+           fetch="https://gitlab.com/MindTheGapps/"
+           revision="upsilon" />
+
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml"/>
   <include name="local_manifests/snippets/sdm632.xml"/>
