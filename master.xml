@@ -12,7 +12,7 @@
            fetch="https://github.com/Deivid21/"
            revision="android-14" />
 
-  <remote  name="gitlab"
+  <remote  name="main-gitlab"
            fetch="https://gitlab.com/Deivid21/"
            revision="android-14" />
 

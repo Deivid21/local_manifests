@@ -2,18 +2,18 @@
 <manifest>
 
   <!-- Motorola -->
-  <project path="vendor/motorola/AudioRecorder" name="proprietary_vendor_motorola_AudioRecorder" remote="gitlab"/>
+  <project path="vendor/motorola/AudioRecorder" name="proprietary_vendor_motorola_AudioRecorder" remote="main-gitlab"/>
   <project path="vendor/motorola/GameMode" name="proprietary_vendor_motorola_GameMode" remote="deivid-21s-sources" revision="android-14"/>
-  <project path="vendor/motorola/MotApps" name="proprietary_vendor_motorola_MotApps" remote="gitlab"/>
-  <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="gitlab"/>
-  <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="gitlab"/>
-  <project path="vendor/motorola/MotCamera3" name="proprietary_vendor_motorola_MotCamera3" remote="gitlab"/>
-  <project path="vendor/motorola/MotCameraAI" name="proprietary_vendor_motorola_MotCameraAI" remote="gitlab"/>
-  <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="gitlab"/>
-  <project path="vendor/motorola/MotoLiveWallpaper3" name="proprietary_vendor_motorola_MotoLiveWallpaper3" remote="gitlab"/>
-  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="gitlab"/>
-  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="gitlab"/>
-  <project path="vendor/motorola/TimeWeather" name="proprietary_vendor_motorola_TimeWeather" remote="gitlab"/>
+  <project path="vendor/motorola/MotApps" name="proprietary_vendor_motorola_MotApps" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3" name="proprietary_vendor_motorola_MotCamera3" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCameraAI" name="proprietary_vendor_motorola_MotCameraAI" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotoLiveWallpaper3" name="proprietary_vendor_motorola_MotoLiveWallpaper3" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="main-gitlab"/>
+  <project path="vendor/motorola/TimeWeather" name="proprietary_vendor_motorola_TimeWeather" remote="main-gitlab"/>
 
   <!-- MindTheGapps -->
   <project path="vendor/gapps" name="vendor_gapps" remote="mindthegapps"/>
