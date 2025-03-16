@@ -14,6 +14,6 @@
   <project path="vendor/motorola/channel" name="proprietary_vendor_motorola_channel" remote="deivid-21s-sources" revision="lineage-21"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sdm632" name="android_kernel_motorola_sdm632" remote="main"/>
+  <project path="kernel/motorola/sdm632" name="android_kernel_motorola_sdm632" remote="main" revision="lineage-21"/>
 
 </manifest>

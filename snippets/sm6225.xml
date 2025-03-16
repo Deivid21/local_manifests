@@ -20,6 +20,6 @@
   <project path="vendor/motorola/caprip" name="proprietary_vendor_motorola_caprip" remote="deivid-21s-sources" revision="lineage-21"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm6225" name="android_kernel_motorola_sm6225" remote="main"/>
+  <project path="kernel/motorola/sm6225" name="android_kernel_motorola_sm6225" remote="main" revision="lineage-21"/>
 
 </manifest>
