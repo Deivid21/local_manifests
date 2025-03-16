@@ -10,7 +10,7 @@
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="lineage-21" />
+           revision="android-14" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/Deivid21/"
