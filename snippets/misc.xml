@@ -8,7 +8,8 @@
   <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3" name="proprietary_vendor_motorola_MotCamera3" remote="main-gitlab"/>
-  <project path="vendor/motorola/MotCameraAI" name="proprietary_vendor_motorola_MotCameraAI" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera2AI" name="proprietary_vendor_motorola_MotCamera2AI" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCameraAI-common" name="proprietary_vendor_motorola_MotCameraAI-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="main-gitlab"/>
   <project path="vendor/motorola/MotoLiveWallpaper3" name="proprietary_vendor_motorola_MotoLiveWallpaper3" remote="main-gitlab"/>
   <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="main-gitlab"/>

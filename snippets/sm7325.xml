@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Motorola -->
+  <project path="vendor/motorola/MotCamera4-lahaina" name="proprietary_vendor_motorola_MotCamera4-lahaina" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-lahaina" name="proprietary_vendor_motorola_MotCamera3AI-lahaina" remote="main-gitlab"/>
+
   <!-- Device Tree -->
   <project path="device/motorola/sm7325-common" name="android_device_motorola_sm7325-common" remote="main"/>
   <project path="device/motorola/dubai" name="android_device_motorola_dubai" remote="main"/>
