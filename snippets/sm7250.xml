@@ -1,6 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Motorola -->
+  <project path="vendor/motorola/MotCamera4-lito" name="proprietary_vendor_motorola_MotCamera4-lito" remote="gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-lito" name="proprietary_vendor_motorola_MotCamera3AI-lito" remote="gitlab"/>
+
   <!-- Device Tree -->
   <project path="device/motorola/sm7250-common" name="android_device_motorola_sm7250-common" remote="main"/>
   <project path="device/motorola/nairo" name="android_device_motorola_nairo" remote="main"/>
