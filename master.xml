@@ -3,22 +3,22 @@
 
   <remote  name="lineageos"
            fetch="https://github.com/LineageOS/"
-           revision="lineage-21" />
+           revision="lineage-22.2" />
 
   <remote  name="deivid-21s-sources"
            fetch="https://github.com/Deivid-21s-Sources/" />
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="lineage-21" />
+           revision="lineage-22.2" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/Deivid21/"
-           revision="android-14" />
+           revision="android-15" />
 
   <remote  name="mindthegapps"
            fetch="https://gitlab.com/MindTheGapps/"
-           revision="upsilon" />
+           revision="vic" />
 
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml"/>

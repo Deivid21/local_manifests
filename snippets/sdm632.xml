@@ -8,10 +8,10 @@
   <project path="device/motorola/channel" name="android_device_motorola_channel" remote="main"/>
 
   <!-- Vendor Tree -->
-  <project path="vendor/motorola/sdm632-common" name="proprietary_vendor_motorola_sdm632-common" remote="deivid-21s-sources" revision="lineage-21"/>
-  <project path="vendor/motorola/river" name="proprietary_vendor_motorola_river" remote="deivid-21s-sources" revision="lineage-21"/>
-  <project path="vendor/motorola/ocean" name="proprietary_vendor_motorola_ocean" remote="deivid-21s-sources" revision="lineage-21"/>
-  <project path="vendor/motorola/channel" name="proprietary_vendor_motorola_channel" remote="deivid-21s-sources" revision="lineage-21"/>
+  <project path="vendor/motorola/sdm632-common" name="proprietary_vendor_motorola_sdm632-common" remote="deivid-21s-sources" revision="lineage-22.2"/>
+  <project path="vendor/motorola/river" name="proprietary_vendor_motorola_river" remote="deivid-21s-sources" revision="lineage-22.2"/>
+  <project path="vendor/motorola/ocean" name="proprietary_vendor_motorola_ocean" remote="deivid-21s-sources" revision="lineage-22.2"/>
+  <project path="vendor/motorola/channel" name="proprietary_vendor_motorola_channel" remote="deivid-21s-sources" revision="lineage-22.2"/>
 
   <!-- Kernel Tree -->
   <project path="kernel/motorola/sdm632" name="android_kernel_motorola_sdm632" remote="main"/>
