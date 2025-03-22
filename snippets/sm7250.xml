@@ -11,9 +11,9 @@
   <project path="device/motorola/kiev" name="android_device_motorola_kiev" remote="main"/>
 
   <!-- Vendor Tree -->
-  <project path="vendor/motorola/sm7250-common" name="proprietary_vendor_motorola_sm7250-common" remote="deivid-21s-sources" revision="lineage-21"/>
-  <project path="vendor/motorola/nairo" name="proprietary_vendor_motorola_nairo" remote="deivid-21s-sources" revision="lineage-21"/>
-  <project path="vendor/motorola/kiev" name="proprietary_vendor_motorola_kiev" remote="deivid-21s-sources" revision="lineage-21"/>
+  <project path="vendor/motorola/sm7250-common" name="proprietary_vendor_motorola_sm7250-common" remote="deivid-21s-sources" revision="lineage-22.2"/>
+  <project path="vendor/motorola/nairo" name="proprietary_vendor_motorola_nairo" remote="deivid-21s-sources" revision="lineage-22.2"/>
+  <project path="vendor/motorola/kiev" name="proprietary_vendor_motorola_kiev" remote="deivid-21s-sources" revision="lineage-22.2"/>
 
   <!-- Kernel Tree -->
   <project path="kernel/motorola/sm7250" name="android_kernel_motorola_sm7250" remote="lineageos"/>

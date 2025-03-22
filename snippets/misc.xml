@@ -3,7 +3,7 @@
 
   <!-- Motorola -->
   <project path="vendor/motorola/AudioRecorder" name="proprietary_vendor_motorola_AudioRecorder" remote="main-gitlab"/>
-  <project path="vendor/motorola/GameMode" name="proprietary_vendor_motorola_GameMode" remote="deivid-21s-sources" revision="android-14"/>
+  <project path="vendor/motorola/GameMode" name="proprietary_vendor_motorola_GameMode" remote="deivid-21s-sources" revision="android-15"/>
   <project path="vendor/motorola/MotApps" name="proprietary_vendor_motorola_MotApps" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
