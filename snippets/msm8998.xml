@@ -4,11 +4,13 @@
   <!-- Device Tree -->
   <project path="device/motorola/msm8998-common" name="android_device_motorola_msm8998-common" remote="main"/>
   <project path="device/motorola/beckham" name="android_device_motorola_beckham" remote="main"/>
+  <project path="device/motorola/evert" name="android_device_motorola_evert" remote="main"/>
   <project path="device/motorola/lake" name="android_device_motorola_lake" remote="main"/>
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/msm8998-common" name="proprietary_vendor_motorola_msm8998-common" remote="deivid-21s-sources" revision="lineage-21"/>
   <project path="vendor/motorola/beckham" name="proprietary_vendor_motorola_beckham" remote="deivid-21s-sources" revision="lineage-21"/>
+  <project path="vendor/motorola/evert" name="proprietary_vendor_motorola_evert" remote="deivid-21s-sources" revision="lineage-21"/>
   <project path="vendor/motorola/lake" name="proprietary_vendor_motorola_lake" remote="deivid-21s-sources" revision="lineage-21"/>
 
   <!-- Kernel Tree -->
