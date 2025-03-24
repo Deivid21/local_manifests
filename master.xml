@@ -18,6 +18,7 @@
 
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml"/>
+  <include name="local_manifests/snippets/msm8998.xml"/>
   <include name="local_manifests/snippets/sdm632.xml"/>
   <include name="local_manifests/snippets/sm6225.xml"/>
   <include name="local_manifests/snippets/sm7250.xml"/>
