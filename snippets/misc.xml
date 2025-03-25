@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Remove Packages -->
+  <project path="packages/apps/RemovePackages" name="android_packages_apps_RemovePackages" remote="main" revision="main"/>
+
   <!-- Motorola -->
   <project path="vendor/motorola/AudioRecorder" name="proprietary_vendor_motorola_AudioRecorder" remote="main-gitlab"/>
   <project path="vendor/motorola/GameMode" name="proprietary_vendor_motorola_GameMode" remote="deivid-21s-sources" revision="android-14"/>
