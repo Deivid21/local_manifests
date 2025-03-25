@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Remove Packages -->
-  <project path="packages/apps/RemovePackages" name="android_packages_apps_RemovePackages" remote="main" revision="main"/>
+  <project path="packages/apps/RemovePackages" name="android_packages_apps_RemovePackages" remote="deivid-21s-sources" revision="main"/>
 
   <!-- Motorola -->
   <project path="vendor/motorola/AudioRecorder" name="proprietary_vendor_motorola_AudioRecorder" remote="main-gitlab"/>
