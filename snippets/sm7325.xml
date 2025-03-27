@@ -14,6 +14,6 @@
   <project path="vendor/motorola/dubai" name="proprietary_vendor_motorola_dubai" remote="deivid-21s-sources" revision="lineage-22.2"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm7325" name="android_kernel_motorola_sm7325" remote="lineageos"/>
+  <project path="kernel/motorola/sm7325" name="android_kernel_motorola_sm7325" remote="main"/>
 
 </manifest>
