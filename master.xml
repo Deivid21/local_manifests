@@ -6,7 +6,8 @@
            revision="lineage-21" />
 
   <remote  name="deivid-21s-sources"
-           fetch="https://github.com/Deivid-21s-Sources/" />
+           fetch="https://github.com/Deivid-21s-Sources/"
+           revision="lineage-21" />
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
