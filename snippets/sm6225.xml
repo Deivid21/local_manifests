@@ -15,13 +15,13 @@
   <project path="device/motorola/caprip" name="android_device_motorola_caprip" remote="main"/>
 
   <!-- Vendor Tree -->
-  <project path="vendor/motorola/sm6225-common" name="proprietary_vendor_motorola_sm6225-common" remote="deivid-21s-sources" revision="lineage-22.2"/>
-  <project path="vendor/motorola/guamp" name="proprietary_vendor_motorola_guamp" remote="deivid-21s-sources" revision="lineage-22.2"/>
-  <project path="vendor/motorola/guam" name="proprietary_vendor_motorola_guam" remote="deivid-21s-sources" revision="lineage-22.2"/>
-  <project path="vendor/motorola/cebu" name="proprietary_vendor_motorola_cebu" remote="deivid-21s-sources" revision="lineage-22.2"/>
-  <project path="vendor/motorola/borneo" name="proprietary_vendor_motorola_borneo" remote="deivid-21s-sources" revision="lineage-22.2"/>
-  <project path="vendor/motorola/capri" name="proprietary_vendor_motorola_capri" remote="deivid-21s-sources" revision="lineage-22.2"/>
-  <project path="vendor/motorola/caprip" name="proprietary_vendor_motorola_caprip" remote="deivid-21s-sources" revision="lineage-22.2"/>
+  <project path="vendor/motorola/sm6225-common" name="proprietary_vendor_motorola_sm6225-common" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/guamp" name="proprietary_vendor_motorola_guamp" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/guam" name="proprietary_vendor_motorola_guam" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/cebu" name="proprietary_vendor_motorola_cebu" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/borneo" name="proprietary_vendor_motorola_borneo" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/capri" name="proprietary_vendor_motorola_capri" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/caprip" name="proprietary_vendor_motorola_caprip" remote="deivid-21s-sources"/>
 
   <!-- Kernel Tree -->
   <project path="kernel/motorola/sm6225" name="android_kernel_motorola_sm6225" remote="main"/>
