@@ -16,6 +16,6 @@
   <project path="vendor/motorola/kiev" name="proprietary_vendor_motorola_kiev" remote="deivid-21s-sources" revision="lineage-22.2"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm7250" name="android_kernel_motorola_sm7250" remote="lineageos"/>
+  <project path="kernel/motorola/sm7250" name="android_kernel_motorola_sm7250" remote="lineageos" revision="lineage-22.1"/>
 
 </manifest>
