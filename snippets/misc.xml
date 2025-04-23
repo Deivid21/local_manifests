@@ -22,6 +22,6 @@
   <!-- LineageOS -->
   <project path="external/bson" name="android_external_bson" remote="lineageos"/>
   <project path="hardware/motorola" name="android_hardware_motorola" remote="lineageos"/>
-  <project path="system/qcom" name="android_system_qcom" remote="lineageos"/>
+  <!-- project path="system/qcom" name="android_system_qcom" remote="lineageos" -->
 
 </manifest>
