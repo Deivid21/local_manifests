@@ -7,6 +7,7 @@
 
   <!-- Device Tree -->
   <project path="device/motorola/sm6225-common" name="android_device_motorola_sm6225-common" remote="main"/>
+  <project path="device/motorola/bathena" name="android_device_motorola_bathena" remote="main"/>
   <project path="device/motorola/borneo" name="android_device_motorola_borneo" remote="main"/>
   <project path="device/motorola/capri" name="android_device_motorola_capri" remote="main"/>
   <project path="device/motorola/caprip" name="android_device_motorola_caprip" remote="main"/>
@@ -19,6 +20,7 @@
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/sm6225-common" name="proprietary_vendor_motorola_sm6225-common" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/bathena" name="proprietary_vendor_motorola_bathena" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/borneo" name="proprietary_vendor_motorola_borneo" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/capri" name="proprietary_vendor_motorola_capri" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/caprip" name="proprietary_vendor_motorola_caprip" remote="deivid-21s-sources"/>
