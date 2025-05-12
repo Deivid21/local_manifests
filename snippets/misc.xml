@@ -1,9 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Remove Packages -->
-  <project path="packages/apps/RemovePackages" name="android_packages_apps_RemovePackages" remote="deivid-21s-sources" revision="main"/>
-
   <!-- Motorola -->
   <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
@@ -15,6 +12,6 @@
 
   <!-- LineageOS -->
   <project path="external/bson" name="android_external_bson" remote="lineageos"/>
-  <project path="hardware/motorola" name="android_hardware_motorola" remote="lineageos"/>
+  <project path="hardware/motorola" name="hardware_motorola" remote="evo-devices"/>
 
 </manifest>
