@@ -22,5 +22,6 @@
   <include name="local_manifests/snippets/exynos9610.xml"/>
   <include name="local_manifests/snippets/msm8998.xml"/>
   <include name="local_manifests/snippets/sdm632.xml"/>
+  <include name="local_manifests/snippets/sm6225.xml"/>
 
 </manifest>
