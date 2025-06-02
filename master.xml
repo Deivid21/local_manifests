@@ -9,6 +9,10 @@
            fetch="https://github.com/Deivid-21s-Sources/"
            revision="lineage-22.2" />
 
+  <remote  name="deivid-21s-sources-gitlab"
+           fetch="https://gitlab.com/Deivid-21s-Sources/"
+           revision="lineage-22.2" />
+
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
            revision="android-15" />
@@ -23,5 +27,6 @@
   <include name="local_manifests/snippets/msm8998.xml"/>
   <include name="local_manifests/snippets/sdm632.xml"/>
   <include name="local_manifests/snippets/sm6225.xml"/>
+  <include name="local_manifests/snippets/sm7325.xml"/>
 
 </manifest>
