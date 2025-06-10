@@ -2,9 +2,9 @@
 <manifest>
 
   <!-- Device Tree -->
-  <project path="device/motorola/sm7325-common" name="android_device_motorola_sm7325-common" remote="main"/>
-  <project path="device/motorola/dubai" name="android_device_motorola_dubai" remote="main"/>
-  <project path="device/motorola/xpeng" name="android_device_motorola_xpeng" remote="main"/>
+  <project path="device/motorola/sm7325-common" name="device_motorola_sm7325-common" remote="evo-devices"/>
+  <project path="device/motorola/dubai" name="device_motorola_dubai" remote="evo-devices"/>
+  <project path="device/motorola/xpeng" name="device_motorola_xpeng" remote="evo-devices"/>
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/sm7325-common" name="proprietary_vendor_motorola_sm7325-common" remote="deivid-21s-sources"/>
@@ -13,6 +13,6 @@
   <project path="vendor/motorola/xpeng" name="proprietary_vendor_motorola_xpeng" remote="deivid-21s-sources"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm7325" name="android_kernel_motorola_sm7325" remote="main" revision="lineage-22.2" />
+  <project path="kernel/motorola/sm7325" name="kernel_motorola_sm7325" remote="evo-devices"/>
 
 </manifest>
