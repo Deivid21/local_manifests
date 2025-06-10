@@ -2,18 +2,22 @@
 <manifest>
 
   <!-- Motorola -->
+  <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="main-gitlab"/>
+
+  <!-- Motorola Moto Camera -->
   <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3" name="proprietary_vendor_motorola_MotCamera3" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera4-bengal" name="proprietary_vendor_motorola_MotCamera4-bengal" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera4-lahaina" name="proprietary_vendor_motorola_MotCamera4-lahaina" remote="main-gitlab"/>
+
+  <!-- Motorola Moto Camera AI -->
   <project path="vendor/motorola/MotCameraAI-common" name="proprietary_vendor_motorola_MotCameraAI-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2AI" name="proprietary_vendor_motorola_MotCamera2AI" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3AI-bengal" name="proprietary_vendor_motorola_MotCamera3AI-bengal" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3AI-lahaina" name="proprietary_vendor_motorola_MotCamera3AI-lahaina" remote="main-gitlab"/>
-  <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="main-gitlab"/>
-  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="main-gitlab"/>
-  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="main-gitlab"/>
 
   <!-- LineageOS -->
   <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineageos" />
