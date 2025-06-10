@@ -1,21 +1,23 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Motorola -->
-  <project path="vendor/motorola/MotCamera4-lito" name="proprietary_vendor_motorola_MotCamera4-lito" remote="gitlab"/>
-  <project path="vendor/motorola/MotCamera3AI-lito" name="proprietary_vendor_motorola_MotCamera3AI-lito" remote="gitlab"/>
-
   <!-- Device Tree -->
   <project path="device/motorola/sm7250-common" name="android_device_motorola_sm7250-common" remote="main"/>
-  <project path="device/motorola/nairo" name="android_device_motorola_nairo" remote="main"/>
   <project path="device/motorola/kiev" name="android_device_motorola_kiev" remote="main"/>
+  <!-- project path="device/motorola/kievv" name="android_device_motorola_kievv" remote="main" -->
+  <project path="device/motorola/nairo" name="android_device_motorola_nairo" remote="main"/>
+  <!-- project path="device/motorola/racer" name="android_device_motorola_racer" remote="main" -->
+  <!-- project path="device/motorola/smith" name="android_device_motorola_smith" remote="main" -->
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/sm7250-common" name="proprietary_vendor_motorola_sm7250-common" remote="deivid-21s-sources"/>
-  <project path="vendor/motorola/nairo" name="proprietary_vendor_motorola_nairo" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/kiev" name="proprietary_vendor_motorola_kiev" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/kievv" name="proprietary_vendor_motorola_kievv" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/nairo" name="proprietary_vendor_motorola_nairo" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/racer" name="proprietary_vendor_motorola_racer" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/smith" name="proprietary_vendor_motorola_smith" remote="deivid-21s-sources" -->
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm7250" name="android_kernel_motorola_sm7250" remote="lineageos" revision="lineage-22.1"/>
+  <project path="kernel/motorola/sm7250" name="android_kernel_motorola_sm7250" remote="lineageos"/>
 
 </manifest>

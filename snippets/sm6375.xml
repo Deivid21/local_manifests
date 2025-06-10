@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device Tree -->
+  <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="main"/>
+  <project path="device/motorola/cypfq" name="android_device_motorola_cypfq" remote="main"/>
+  <project path="device/motorola/ibiza" name="android_device_motorola_ibiza" remote="main"/>
+  <project path="device/motorola/miami" name="android_device_motorola_miami" remote="main"/>
+  <project path="device/motorola/penang" name="android_device_motorola_penang" remote="main"/>
+  <project path="device/motorola/rhodep" name="android_device_motorola_rhodep" remote="main"/>
+
+  <!-- Vendor Tree -->
+  <project path="vendor/motorola/sm6375-common" name="proprietary_vendor_motorola_sm6375-common" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/cypfq" name="proprietary_vendor_motorola_cypfq" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/ibiza" name="proprietary_vendor_motorola_ibiza" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/miami" name="proprietary_vendor_motorola_miami" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/penang" name="proprietary_vendor_motorola_penang" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/rhodep" name="proprietary_vendor_motorola_rhodep" remote="deivid-21s-sources"/>
+
+  <!-- Kernel Tree -->
+  <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="main"/>
+
+</manifest>

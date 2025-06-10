@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device Tree -->
+  <project path="device/motorola/exynos9610-common" name="android_device_motorola_exynos9610-common" remote="main"/>
+  <project path="device/motorola/kane" name="android_device_motorola_kane" remote="main"/>
+  <project path="device/motorola/troika" name="android_device_motorola_troika" remote="main"/>
+
+  <!-- Vendor Tree -->
+  <project path="vendor/motorola/exynos9610-common" name="proprietary_vendor_motorola_exynos9610-common" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/kane" name="proprietary_vendor_motorola_kane" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/troika" name="proprietary_vendor_motorola_troika" remote="deivid-21s-sources"/>
+
+  <!-- Kernel Tree -->
+  <project path="kernel/motorola/exynos9610" name="android_kernel_motorola_exynos9610" remote="main"/>
+
+</manifest>

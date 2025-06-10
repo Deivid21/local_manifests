@@ -1,17 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
-  <!-- Motorola -->
-  <project path="vendor/motorola/MotCamera4-lahaina" name="proprietary_vendor_motorola_MotCamera4-lahaina" remote="gitlab"/>
-  <project path="vendor/motorola/MotCamera3AI-lahaina" name="proprietary_vendor_motorola_MotCamera3AI-lahaina" remote="gitlab"/>
-
   <!-- Device Tree -->
   <project path="device/motorola/sm7325-common" name="android_device_motorola_sm7325-common" remote="main"/>
+  <!-- project path="device/motorola/berlin" name="android_device_motorola_berlin" remote="main" -->
+  <!-- project path="device/motorola/berlna" name="android_device_motorola_berlna" remote="main" -->
   <project path="device/motorola/dubai" name="android_device_motorola_dubai" remote="main"/>
+  <!-- project path="device/motorola/tundra" name="android_device_motorola_tundra" remote="main" -->
+  <project path="device/motorola/xpeng" name="android_device_motorola_xpeng" remote="main"/>
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/sm7325-common" name="proprietary_vendor_motorola_sm7325-common" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/berlin" name="proprietary_vendor_motorola_berlin" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/berlna" name="proprietary_vendor_motorola_berlna" remote="deivid-21s-sources" -->
   <project path="vendor/motorola/dubai" name="proprietary_vendor_motorola_dubai" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/tundra" name="proprietary_vendor_motorola_tundra" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/xpeng" name="proprietary_vendor_motorola_xpeng" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/dubai-radio" name="proprietary_vendor_motorola_dubai-radio" remote="deivid-21s-sources-gitlab"/>
 
   <!-- Kernel Tree -->
   <project path="kernel/motorola/sm7325" name="android_kernel_motorola_sm7325" remote="main"/>
