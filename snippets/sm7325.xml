@@ -6,7 +6,7 @@
   <!-- project path="device/motorola/berlin" name="device_motorola_berlin" remote="main" -->
   <!-- project path="device/motorola/berlna" name="device_motorola_berlna" remote="main" -->
   <project path="device/motorola/dubai" name="device_motorola_dubai" remote="evo-devices"/>
-  <!-- project path="device/motorola/tundra" name="device_motorola_tundra" remote="main" -->
+  <project path="device/motorola/tundra" name="device_motorola_tundra" remote="evo-devices"/>
   <project path="device/motorola/xpeng" name="device_motorola_xpeng" remote="evo-devices"/>
 
   <!-- Vendor Tree -->
@@ -14,7 +14,7 @@
   <!-- project path="vendor/motorola/berlin" name="proprietary_vendor_motorola_berlin" remote="deivid-21s-sources" -->
   <!-- project path="vendor/motorola/berlna" name="proprietary_vendor_motorola_berlna" remote="deivid-21s-sources" -->
   <project path="vendor/motorola/dubai" name="proprietary_vendor_motorola_dubai" remote="deivid-21s-sources"/>
-  <!-- project path="vendor/motorola/tundra" name="proprietary_vendor_motorola_tundra" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/tundra" name="proprietary_vendor_motorola_tundra" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/xpeng" name="proprietary_vendor_motorola_xpeng" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/dubai-radio" name="proprietary_vendor_motorola_dubai-radio" remote="deivid-21s-sources-gitlab"/>
 
