@@ -15,7 +15,7 @@
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="android-15" />
+           revision="vic" />
 
   <remote  name="main-gitlab"
            fetch="https://gitlab.com/Deivid21/"
@@ -28,8 +28,8 @@
   <include name="local_manifests/snippets/sdm632.xml"/>
   <!-- include name="local_manifests/snippets/sdm710.xml" -->
   <include name="local_manifests/snippets/sm6225.xml"/>
-  <!-- include name="local_manifests/snippets/sm6375.xml" -->
+  <include name="local_manifests/snippets/sm6375.xml"/>
   <!-- include name="local_manifests/snippets/sm7250.xml" -->
-  <include name="local_manifests/snippets/sm7325.xml"/>
+  <include name="local_manifests/snippets/sm8350.xml"/>
 
 </manifest>

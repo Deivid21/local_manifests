@@ -10,7 +10,7 @@
   <project path="device/motorola/cebu" name="device_motorola_cebu" remote="evo-devices"/>
   <project path="device/motorola/devon" name="device_motorola_devon" remote="evo-devices"/>
   <project path="device/motorola/guam" name="device_motorola_guam" remote="evo-devices"/>
-  <!-- project path="device/motorola/guamna" name="android_device_motorola_guamna" remote="main" -->
+  <project path="device/motorola/guamna" name="android_device_motorola_guamna" remote="main"/>
   <project path="device/motorola/guamp" name="device_motorola_guamp" remote="evo-devices"/>
   <project path="device/motorola/hawao" name="device_motorola_hawao" remote="evo-devices"/>
   <project path="device/motorola/rhode" name="device_motorola_rhode" remote="evo-devices"/>
