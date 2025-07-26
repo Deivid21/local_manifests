@@ -2,7 +2,7 @@
 <manifest>
 
   <!-- Device Tree -->
-  <project path="device/motorola/sm8350-common" name="device_motorola_sm7325-common" remote="evo-devices"/>
+  <project path="device/motorola/sm8350-common" name="device_motorola_sm8350-common" remote="evo-devices"/>
   <!-- project path="device/motorola/berlin" name="device_motorola_berlin" remote="main" -->
   <!-- project path="device/motorola/berlna" name="device_motorola_berlna" remote="main" -->
   <project path="device/motorola/dubai" name="device_motorola_dubai" remote="evo-devices"/>
@@ -19,6 +19,6 @@
   <project path="vendor/motorola/dubai-radio" name="proprietary_vendor_motorola_dubai-radio" remote="deivid-21s-sources-gitlab"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm8350" name="kernel_motorola_sm7325" remote="evo-devices"/>
+  <project path="kernel/motorola/sm8350" name="kernel_motorola_sm8350" remote="evo-devices"/>
 
 </manifest>
