@@ -8,7 +8,7 @@
   <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="main"/>
   <!-- project path="device/motorola/ibiza" name="android_device_motorola_ibiza" remote="main" -->
   <project path="device/motorola/miami" name="android_device_motorola_miami" remote="main"/>
-  <project path="device/motorola/penang" name="android_device_motorola_penang" remote="main" revision="lineage-22.2"/>
+  <project path="device/motorola/penang" name="android_device_motorola_penang" remote="main"/>
   <project path="device/motorola/rhodep" name="android_device_motorola_rhodep" remote="main"/>
 
   <!-- Vendor Tree -->
