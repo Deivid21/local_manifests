@@ -2,14 +2,14 @@
 <manifest>
 
   <!-- Device Tree -->
-  <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="evo-devices"/>
+  <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="evo-devices"/>
   <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="main"/>
   <!-- project path="device/motorola/cypfq" name="android_device_motorola_cypfq" remote="main" -->
   <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="main"/>
   <!-- project path="device/motorola/ibiza" name="android_device_motorola_ibiza" remote="main" -->
   <project path="device/motorola/miami" name="android_device_motorola_miami" remote="main"/>
-  <project path="device/motorola/penang" name="android_device_motorola_penang" remote="evo-devices"/>
-  <project path="device/motorola/rhodep" name="android_device_motorola_rhodep" remote="evo-devices"/>
+  <project path="device/motorola/penang" name="device_motorola_penang" remote="evo-devices"/>
+  <project path="device/motorola/rhodep" name="device_motorola_rhodep" remote="evo-devices"/>
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/sm6375-common" name="proprietary_vendor_motorola_sm6375-common" remote="deivid-21s-sources"/>
@@ -23,6 +23,6 @@
   <project path="vendor/motorola/penang-radio" name="proprietary_vendor_motorola_penang-radio" remote="deivid-21s-sources-gitlab"/>
 
   <!-- Kernel Tree -->
-  <project path="kernel/motorola/sm6375" name="android_kernel_motorola_sm6375" remote="evo-devices"/>
+  <project path="kernel/motorola/sm6375" name="kernel_motorola_sm6375" remote="evo-devices"/>
 
 </manifest>
