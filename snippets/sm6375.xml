@@ -20,6 +20,7 @@
   <project path="vendor/motorola/miami" name="proprietary_vendor_motorola_miami" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/penang" name="proprietary_vendor_motorola_penang" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/rhodep" name="proprietary_vendor_motorola_rhodep" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/bangkk-radio" name="proprietary_vendor_motorola_bangkk-radio" remote="deivid-21s-sources-gitlab"/>
   <project path="vendor/motorola/cypfq-radio" name="proprietary_vendor_motorola_cypfq-radio" remote="deivid-21s-sources-gitlab"/>
   <project path="vendor/motorola/penang-radio" name="proprietary_vendor_motorola_penang-radio" remote="deivid-21s-sources-gitlab"/>
 
