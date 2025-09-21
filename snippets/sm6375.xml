@@ -3,8 +3,8 @@
 
   <!-- Device Tree -->
   <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="evo-devices"/>
-  <project path="device/motorola/bangkk" name="android_device_motorola_bangkk" remote="main"/>
-  <project path="device/motorola/cypfq" name="android_device_motorola_cypfq" remote="main"/>
+  <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="evo-devices"/>
+  <project path="device/motorola/cypfq" name="device_motorola_cypfq" remote="evo-devices"/>
   <project path="device/motorola/fogos" name="android_device_motorola_fogos" remote="main"/>
   <!-- project path="device/motorola/ibiza" name="android_device_motorola_ibiza" remote="main" -->
   <project path="device/motorola/miami" name="android_device_motorola_miami" remote="main"/>
