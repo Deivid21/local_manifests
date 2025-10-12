@@ -3,7 +3,7 @@
 
   <remote  name="lineageos"
            fetch="https://github.com/LineageOS/"
-           revision="lineage-22.2" />
+           revision="lineage-23.0" />
 
   <remote  name="deivid-21s-sources"
            fetch="https://github.com/Deivid-21s-Sources/"
@@ -15,7 +15,7 @@
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="vic" />
+           revision="bka" />
 
   <remote  name="main-gitlab"
            fetch="https://gitlab.com/Deivid21/"
