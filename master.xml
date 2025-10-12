@@ -7,7 +7,7 @@
 
   <remote  name="deivid-21s-sources"
            fetch="https://github.com/Deivid-21s-Sources/"
-           revision="lineage-22.2" />
+           revision="lineage-23.0" />
 
   <remote  name="deivid-21s-sources-gitlab"
            fetch="https://gitlab.com/Deivid-21s-Sources/"
@@ -23,10 +23,7 @@
 
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml"/>
-  <include name="local_manifests/snippets/exynos9610.xml"/>
-  <include name="local_manifests/snippets/msm8998.xml"/>
-  <include name="local_manifests/snippets/sdm632.xml"/>
-  <!-- include name="local_manifests/snippets/sdm710.xml" -->
+  <!-- include name="local_manifests/snippets/exynos9610.xml" -->
   <include name="local_manifests/snippets/sm6225.xml"/>
   <include name="local_manifests/snippets/sm6375.xml"/>
   <!-- include name="local_manifests/snippets/sm7250.xml" -->

@@ -24,7 +24,6 @@
 
   <!-- LineageOS -->
   <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineageos" />
-  <project path="external/bson" name="android_external_bson" remote="lineageos"/>
   <project path="hardware/samsung" name="android_hardware_samsung" remote="lineageos" />
   <project path="hardware/samsung_slsi/fm" name="android_hardware_samsung_slsi_fm" remote="lineageos" />
   <project path="hardware/samsung_slsi/libbt" name="android_hardware_samsung_slsi_libbt" remote="lineageos" />
