@@ -3,37 +3,40 @@
 
   <remote  name="lineageos"
            fetch="https://github.com/LineageOS/"
-           revision="lineage-22.2" />
+           revision="lineage-23.2" />
+
+  <remote  name="themuppets"
+           fetch="https://github.com/themuppets"
+           revision="lineage-23.2" />
 
   <remote  name="deivid-21s-sources"
            fetch="https://github.com/Deivid-21s-Sources/"
-           revision="lineage-22.2" />
+           revision="lineage-23.2" />
 
   <remote  name="deivid-21s-sources-gitlab"
            fetch="https://gitlab.com/Deivid-21s-Sources/"
-           revision="lineage-22.2" />
+           revision="lineage-23.2" />
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="lineage-22.2" />
+           revision="lineage-23.2" />
 
   <remote  name="gitlab"
            fetch="https://gitlab.com/Deivid21/"
-           revision="android-15" />
+           revision="android-16" />
 
   <remote  name="mindthegapps"
            fetch="https://gitlab.com/MindTheGapps/"
-           revision="vic" />
+           revision="baklava" />
 
   <!-- Snippets -->
-  <include name="local_manifests/snippets/misc.xml"/>
-  <include name="local_manifests/snippets/exynos9610.xml"/>
-  <include name="local_manifests/snippets/msm8998.xml"/>
-  <include name="local_manifests/snippets/sdm632.xml"/>
-  <!-- include name="local_manifests/snippets/sdm710.xml" -->
-  <include name="local_manifests/snippets/sm6225.xml"/>
-  <include name="local_manifests/snippets/sm6375.xml"/>
-  <!-- include name="local_manifests/snippets/sm7250.xml" -->
-  <include name="local_manifests/snippets/sm7325.xml"/>
+  <include name="local_manifests/snippets/misc.xml" />
+  <!-- include name="local_manifests/snippets/exynos9610.xml -->
+  <!-- include name="local_manifests/snippets/sm6125.xml -->
+  <include name="local_manifests/snippets/sm6225.xml" />
+  <!-- include name="local_manifests/snippets/sm6375.xml -->
+  <!-- include name="local_manifests/snippets/sm7150.xml -->
+  <!-- include name="local_manifests/snippets/sm8250.xml -->
+  <!-- include name="local_manifests/snippets/sm8350.xml -->
 
 </manifest>
