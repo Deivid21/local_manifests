@@ -8,8 +8,8 @@
   <project path="device/motorola/evert" name="device_motorola_evert" remote="evo-devices"/>
   <project path="device/motorola/lake" name="device_motorola_lake" remote="evo-devices"/>
   <!-- project path="device/motorola/messi" name="device_motorola_messi" remote="main" -->
-  <!-- project path="device/motorola/nash" name="device_motorola_nash" remote="main" -->
-  <project path="device/motorola/payton" name="android_device_motorola_payton" remote="evo-devices"/>
+  <project path="device/motorola/nash" name="device_motorola_nash" remote="evo-devices"/>
+  <project path="device/motorola/payton" name="device_motorola_payton" remote="evo-devices"/>
 
   <!-- Vendor Tree -->
   <project path="vendor/motorola/msm8998-common" name="proprietary_vendor_motorola_msm8998-common" remote="deivid-21s-sources"/>
@@ -18,7 +18,7 @@
   <project path="vendor/motorola/evert" name="proprietary_vendor_motorola_evert" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/lake" name="proprietary_vendor_motorola_lake" remote="deivid-21s-sources"/>
   <!-- project path="vendor/motorola/messi" name="proprietary_vendor_motorola_messi" remote="deivid-21s-sources" -->
-  <!-- project path="vendor/motorola/nash" name="proprietary_vendor_motorola_nash" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/nash" name="proprietary_vendor_motorola_nash" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/payton" name="proprietary_vendor_motorola_payton" remote="deivid-21s-sources"/>
 
   <!-- Kernel Tree -->
