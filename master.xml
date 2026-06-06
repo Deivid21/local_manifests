@@ -3,23 +3,28 @@
 
   <remote  name="lineageos"
            fetch="https://github.com/LineageOS/"
-           revision="lineage-22.2" />
+           revision="lineage-22.2"
+           clone-depth="1" />
 
   <remote  name="deivid-21s-sources"
            fetch="https://github.com/Deivid-21s-Sources/"
-           revision="lineage-22.2" />
+           revision="lineage-22.2"
+           clone-depth="1" />
 
   <remote  name="deivid-21s-sources-gitlab"
            fetch="https://gitlab.com/Deivid-21s-Sources/"
-           revision="lineage-22.2" />
+           revision="lineage-22.2"
+           clone-depth="1" />
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="vic" />
+           revision="vic"
+           clone-depth="1" />
 
   <remote  name="main-gitlab"
            fetch="https://gitlab.com/Deivid21/"
-           revision="android-15" />
+           revision="android-15"
+           clone-depth="1" />
 
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml"/>
