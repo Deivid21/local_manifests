@@ -18,7 +18,6 @@
   <project path="vendor/motorola/xpeng" name="proprietary_vendor_motorola_xpeng" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/berlna-radio" name="proprietary_vendor_motorola_berlna-radio" remote="deivid-21s-sources-gitlab"/>
   <project path="vendor/motorola/berlin-radio" name="proprietary_vendor_motorola_berlin-radio" remote="deivid-21s-sources-gitlab"/>
-  <project path="vendor/motorola/tundra-radio" name="proprietary_vendor_motorola_tundra-radio" remote="deivid-21s-sources-gitlab"/>
 
   <!-- Kernel Tree -->
   <project path="kernel/motorola/sm8350" name="kernel_motorola_sm8350" remote="evo-devices"/>
