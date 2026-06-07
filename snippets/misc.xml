@@ -27,6 +27,7 @@
   <project path="hardware/samsung" name="android_hardware_samsung" remote="lineageos" />
   <project path="hardware/samsung_slsi/fm" name="android_hardware_samsung_slsi_fm" remote="lineageos" />
   <project path="hardware/samsung_slsi/libbt" name="android_hardware_samsung_slsi_libbt" remote="lineageos" />
+  <project path="hardware/samsung_slsi/nfc" name="android_hardware_samsung_slsi_nfc" remote="lineageos" />
   <project path="hardware/samsung_slsi-linaro/camera" name="android_hardware_samsung_slsi-linaro_camera" remote="lineageos" />
   <project path="hardware/samsung_slsi-linaro/config" name="android_hardware_samsung_slsi-linaro_config" remote="lineageos" />
   <project path="hardware/samsung_slsi-linaro/exynos" name="android_hardware_samsung_slsi-linaro_exynos" remote="lineageos" />
