@@ -3,7 +3,6 @@
 
   <!-- Motorola -->
   <project path="hardware/motorola" name="hardware_motorola" remote="evo-devices"/>
-  <project path="vendor/motorola/ARselfie" name="proprietary_vendor_motorola_ARselfie" remote="main-gitlab"/>
   <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="main-gitlab"/>
   <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="main-gitlab"/>
   <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="main-gitlab"/>

@@ -23,7 +23,7 @@
 
   <remote  name="main-gitlab"
            fetch="https://gitlab.com/Deivid21/"
-           revision="android-15"
+           revision="android-16"
            clone-depth="1" />
 
   <!-- Snippets -->
