@@ -3,31 +3,59 @@
 
   <remote  name="lineageos"
            fetch="https://github.com/LineageOS/"
-           revision="lineage-23.2" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/lineage-23.2"
+           clone-depth="1" />
 
   <remote  name="themuppets"
            fetch="https://github.com/themuppets"
-           revision="lineage-23.2" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/lineage-23.2"
+           clone-depth="1" />
 
   <remote  name="deivid-21s-sources"
            fetch="https://github.com/Deivid-21s-Sources/"
-           revision="lineage-23.2" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/lineage-23.2"
+           clone-depth="1" />
 
   <remote  name="deivid-21s-sources-gitlab"
            fetch="https://gitlab.com/Deivid-21s-Sources/"
-           revision="lineage-23.2" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/lineage-23.2"
+           clone-depth="1" />
 
   <remote  name="main"
            fetch="https://github.com/Deivid21/"
-           revision="lineage-23.2" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/lineage-23.2"
+           clone-depth="1" />
 
-  <remote  name="gitlab"
+  <remote  name="main-gitlab"
            fetch="https://gitlab.com/Deivid21/"
-           revision="android-16" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/android-16"
+           clone-depth="1" />
 
   <remote  name="mindthegapps"
            fetch="https://gitlab.com/MindTheGapps/"
-           revision="baklava" />
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/baklava"
+           clone-depth="1" />
+
+  <remote  name="evo-devices"
+           fetch="https://github.com/Evolution-X-Devices"
+           sync-c="true"
+           sync-j="4"
+           revision="refs/heads/bka"
+           clone-depth="1" />
 
   <!-- Snippets -->
   <include name="local_manifests/snippets/misc.xml" />

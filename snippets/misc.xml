@@ -1,11 +1,43 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
 
+  <!-- Motorola -->
+  <project path="hardware/motorola" name="hardware_motorola" remote="evo-devices"/>
+  <project path="vendor/motorola/MotoPhotoEditor" name="proprietary_vendor_motorola_MotoPhotoEditor" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotoSignatureApp" name="proprietary_vendor_motorola_MotoSignatureApp" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotorolaSettingsProvider" name="proprietary_vendor_motorola_MotorolaSettingsProvider" remote="main-gitlab"/>
+
+  <!-- Motorola Moto Camera -->
+  <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera4-bengal" name="proprietary_vendor_motorola_MotCamera4-bengal" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera4-sm6375" name="proprietary_vendor_motorola_MotCamera4-sm6375" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera4-lahaina" name="proprietary_vendor_motorola_MotCamera4-lahaina" remote="main-gitlab"/>
+
+  <!-- Motorola Moto Camera AI -->
+  <project path="vendor/motorola/MotCameraAI-common" name="proprietary_vendor_motorola_MotCameraAI-common" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera2AI" name="proprietary_vendor_motorola_MotCamera2AI" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-bengal" name="proprietary_vendor_motorola_MotCamera3AI-bengal" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-sm6375" name="proprietary_vendor_motorola_MotCamera3AI-sm6375" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-lahaina" name="proprietary_vendor_motorola_MotCamera3AI-lahaina" remote="main-gitlab"/>
+
   <!-- MindTheGapps -->
-  <!-- project path="vendor/gapps" name="vendor_gapps" remote="mindthegapps -->
+  <project path="vendor/gapps" name="vendor_gapps" remote="mindthegapps" />
 
   <!-- LineageOS -->
-  <project path="hardware/motorola" name="android_hardware_motorola" remote="lineageos"/>
+  <project path="device/samsung_slsi/sepolicy" name="android_device_samsung_slsi_sepolicy" remote="lineageos" />
+  <project path="hardware/samsung" name="android_hardware_samsung" remote="lineageos" />
+  <project path="hardware/samsung_slsi/fm" name="android_hardware_samsung_slsi_fm" remote="lineageos" />
+  <project path="hardware/samsung_slsi/libbt" name="android_hardware_samsung_slsi_libbt" remote="lineageos" />
   <project path="hardware/samsung_slsi/nfc" name="android_hardware_samsung_slsi_nfc" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/camera" name="android_hardware_samsung_slsi-linaro_camera" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/config" name="android_hardware_samsung_slsi-linaro_config" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/exynos" name="android_hardware_samsung_slsi-linaro_exynos" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/exynos5" name="android_hardware_samsung_slsi-linaro_exynos5" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/graphics" name="android_hardware_samsung_slsi-linaro_graphics" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/interfaces" name="android_hardware_samsung_slsi-linaro_interfaces" remote="lineageos" />
+  <project path="hardware/samsung_slsi-linaro/openmax" name="android_hardware_samsung_slsi-linaro_openmax" remote="lineageos" />
+  <project path="hardware/samsung_slsi/scsc_wifibt/wifi_hal" name="android_hardware_samsung_slsi_scsc_wifibt_wifi_hal" remote="lineageos" />
+  <project path="hardware/samsung_slsi/scsc_wifibt/wpa_supplicant_lib" name="android_hardware_samsung_slsi_scsc_wifibt_wpa_supplicant_lib" remote="lineageos" />
 
 </manifest>
