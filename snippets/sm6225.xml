@@ -10,7 +10,7 @@
   <project path="device/motorola/cebu" name="device_motorola_cebu" remote="evo-devices"/>
   <project path="device/motorola/devon" name="device_motorola_devon" remote="evo-devices"/>
   <project path="device/motorola/guam" name="device_motorola_guam" remote="evo-devices"/>
-  <!-- project path="device/motorola/guamna" name="device_motorola_guamna" remote="evo-devices" -->
+  <project path="device/motorola/guamna" name="device_motorola_guamna" remote="evo-devices"/>
   <project path="device/motorola/guamp" name="device_motorola_guamp" remote="evo-devices"/>
   <project path="device/motorola/hawao" name="device_motorola_hawao" remote="evo-devices"/>
   <project path="device/motorola/rhode" name="device_motorola_rhode" remote="evo-devices"/>
@@ -24,7 +24,7 @@
   <project path="vendor/motorola/cebu" name="proprietary_vendor_motorola_cebu" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/devon" name="proprietary_vendor_motorola_devon" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/guam" name="proprietary_vendor_motorola_guam" remote="deivid-21s-sources"/>
-  <!-- project path="vendor/motorola/guamna" name="proprietary_vendor_motorola_guamna" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/guamna" name="proprietary_vendor_motorola_guamna" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/guamp" name="proprietary_vendor_motorola_guamp" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/hawao" name="proprietary_vendor_motorola_hawao" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/rhode" name="proprietary_vendor_motorola_rhode" remote="deivid-21s-sources"/>
