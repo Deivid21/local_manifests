@@ -33,7 +33,7 @@
   <include name="local_manifests/snippets/sm6225.xml"/>
   <!-- include name="local_manifests/snippets/sm6375.xml" -->
   <!-- include name="local_manifests/snippets/sm7150.xml" -->
-  <!-- include name="local_manifests/snippets/sm8250.xml" -->
+  <include name="local_manifests/snippets/sm8250.xml"/>
   <!-- include name="local_manifests/snippets/sm8350.xml" -->
 
 </manifest>
