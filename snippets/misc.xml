@@ -10,15 +10,19 @@
   <!-- Motorola Moto Camera -->
   <project path="vendor/motorola/MotCamera-common" name="proprietary_vendor_motorola_MotCamera-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2" name="proprietary_vendor_motorola_MotCamera2" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera4-sm7150" name="proprietary_vendor_motorola_MotCamera4-sm7150" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera4-bengal" name="proprietary_vendor_motorola_MotCamera4-bengal" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera4-sm6375" name="proprietary_vendor_motorola_MotCamera4-sm6375" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera4-sm8250" name="proprietary_vendor_motorola_MotCamera4-sm8250" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera4-lahaina" name="proprietary_vendor_motorola_MotCamera4-lahaina" remote="main-gitlab"/>
 
   <!-- Motorola Moto Camera AI -->
   <project path="vendor/motorola/MotCameraAI-common" name="proprietary_vendor_motorola_MotCameraAI-common" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera2AI" name="proprietary_vendor_motorola_MotCamera2AI" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-sm7150" name="proprietary_vendor_motorola_MotCamera3AI-sm7150" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3AI-bengal" name="proprietary_vendor_motorola_MotCamera3AI-bengal" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3AI-sm6375" name="proprietary_vendor_motorola_MotCamera3AI-sm6375" remote="main-gitlab"/>
+  <project path="vendor/motorola/MotCamera3AI-sm8250" name="proprietary_vendor_motorola_MotCamera3AI-sm8250" remote="main-gitlab"/>
   <project path="vendor/motorola/MotCamera3AI-lahaina" name="proprietary_vendor_motorola_MotCamera3AI-lahaina" remote="main-gitlab"/>
 
   <!-- LineageOS -->
