@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+
+  <!-- Device Tree -->
+  <project path="device/motorola/sm6375-common" name="device_motorola_sm6375-common" remote="evo-devices"/>
+  <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="evo-devices"/>
+  <!-- project path="device/motorola/corfur" name="device_motorola_corfur" remote="evo-devices" -->
+  <!-- project path="device/motorola/cypfq" name="device_motorola_cypfq" remote="evo-devices" -->
+  <!-- project path="device/motorola/cypfr" name="device_motorola_cypfr" remote="evo-devices" -->
+  <project path="device/motorola/denver" name="device_motorola_denver" remote="evo-devices"/>
+  <project path="device/motorola/fogo" name="device_motorola_fogo" remote="evo-devices"/>
+  <project path="device/motorola/fogos" name="device_motorola_fogos" remote="evo-devices"/>
+  <!-- project path="device/motorola/ibiza" name="device_motorola_ibiza" remote="evo-devices" -->
+  <project path="device/motorola/miami" name="device_motorola_miami" remote="evo-devices"/>
+  <project path="device/motorola/milanf" name="device_motorola_milanf" remote="evo-devices"/>
+  <!-- project path="device/motorola/penang" name="device_motorola_penang" remote="evo-devices" -->
+  <!-- project path="device/motorola/pnangn" name="device_motorola_pnangn" remote="evo-devices" -->
+  <!-- project path="device/motorola/rhodec" name="device_motorola_rhodec" remote="evo-devices" -->
+  <!-- project path="device/motorola/rhodei" name="device_motorola_rhodei" remote="evo-devices" -->
+  <project path="device/motorola/rhodep" name="device_motorola_rhodep" remote="evo-devices"/>
+
+  <!-- Vendor Tree -->
+  <project path="vendor/motorola/sm6375-common" name="proprietary_vendor_motorola_sm6375-common" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/bangkk" name="proprietary_vendor_motorola_bangkk" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/corfur" name="proprietary_vendor_motorola_corfur" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/cypfq" name="proprietary_vendor_motorola_cypfq" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/cypfr" name="proprietary_vendor_motorola_cypfr" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/denver" name="proprietary_vendor_motorola_denver" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/fogo" name="proprietary_vendor_motorola_fogo" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/fogos" name="proprietary_vendor_motorola_fogos" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/ibiza" name="proprietary_vendor_motorola_ibiza" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/miami" name="proprietary_vendor_motorola_miami" remote="deivid-21s-sources"/>
+  <project path="vendor/motorola/milanf" name="proprietary_vendor_motorola_milanf" remote="deivid-21s-sources"/>
+  <!-- project path="vendor/motorola/penang" name="proprietary_vendor_motorola_penang" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/pnangn" name="proprietary_vendor_motorola_pnangn" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/rhodec" name="proprietary_vendor_motorola_rhodec" remote="deivid-21s-sources" -->
+  <!-- project path="vendor/motorola/rhodei" name="proprietary_vendor_motorola_rhodei" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/rhodep" name="proprietary_vendor_motorola_rhodep" remote="deivid-21s-sources"/>
+
+  <!-- Kernel Tree -->
+  <project path="kernel/motorola/sm6375" name="kernel_motorola_sm6375" remote="evo-devices"/>
+
+</manifest>
