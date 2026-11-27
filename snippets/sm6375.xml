@@ -4,7 +4,7 @@
   <!-- Device Tree -->
   <project path="device/motorola/sm6375-common" name="android_device_motorola_sm6375-common" remote="main"/>
   <project path="device/motorola/bangkk" name="device_motorola_bangkk" remote="evo-devices"/>
-  <!-- project path="device/motorola/corfur" name="device_motorola_corfur" remote="evo-devices" -->
+  <project path="device/motorola/corfur" name="device_motorola_corfur" remote="evo-devices"/>
   <project path="device/motorola/cypfq" name="device_motorola_cypfq" remote="evo-devices"/>
   <!-- project path="device/motorola/cypfr" name="device_motorola_cypfr" remote="evo-devices" -->
   <project path="device/motorola/denver" name="device_motorola_denver" remote="evo-devices"/>
@@ -22,7 +22,7 @@
   <!-- Vendor Tree -->
   <project path="vendor/motorola/sm6375-common" name="proprietary_vendor_motorola_sm6375-common" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/bangkk" name="proprietary_vendor_motorola_bangkk" remote="deivid-21s-sources"/>
-  <!-- project path="vendor/motorola/corfur" name="proprietary_vendor_motorola_corfur" remote="deivid-21s-sources" -->
+  <project path="vendor/motorola/corfur" name="proprietary_vendor_motorola_corfur" remote="deivid-21s-sources"/>
   <project path="vendor/motorola/cypfq" name="proprietary_vendor_motorola_cypfq" remote="deivid-21s-sources"/>
   <!-- project path="vendor/motorola/cypfr" name="proprietary_vendor_motorola_cypfr" remote="deivid-21s-sources" -->
   <project path="vendor/motorola/denver" name="proprietary_vendor_motorola_denver" remote="deivid-21s-sources"/>
